@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core';
+import { AdComponent } from 'projects/test-lib/src/lib/ad.component';
 
-import { AdComponent } from './ad.component';
 
 @Component({
   template: `
